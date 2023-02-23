@@ -1,0 +1,13 @@
+$enable-shadows: true;
+$primary: #f28B30;
+@import "../libs/bootstrap/scss/bootstrap";
+
+.btn-primary {
+
+    border-bottom: 3px, solid #00000052;
+} 
+.btn-outline-primary {
+
+    --bs-btn-hover-color: #fff;
+    --bs-btn-active-color: #f2bf5e;
+}

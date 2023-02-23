@@ -1,0 +1,142 @@
+[
+    {
+        "ID": "1",
+        "Unidad": "Calle 10 No. 9 - 78  Centro LETICIA AMAZONAS",
+        "Tipo": "Casa",
+        "Superficie": "150  m2",
+        "Habitaciones": "4",
+        "Inquilino": "ALDEMAR CADAVID ECHEVERRI",
+        "Alquiler": "800.000$Cop",
+        "Estado": "Publica"
+    },
+    {
+        "ID": "5",
+        "Unidad": "Carrera 8a No. 7 - 88 \/94  Barrio  La Estrella\tCAQUETA FLORENCIA",
+        "Tipo": "Bodega",
+        "Superficie": "1248 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "JOSE EDGAR CASTELBLANCO CARDOSO",
+        "Alquiler": "5.000.000.000$Cop",
+        "Estado": "Privado "
+    },
+    {
+        "ID": "6",
+        "Unidad": "Carrera  5 No. 3 -74  centro CAUCA POPAYAN",
+        "Tipo": "Oficina",
+        "Superficie": "53 m\u00b2",
+        "Habitaciones": "1",
+        "Inquilino": "OSCAR HERNANDO TORRES LUNA\t",
+        "Alquiler": "$298.000.000",
+        "Estado": "Privada"
+    },
+    {
+        "ID": "14",
+        "Unidad": "Calle 12 No. 4 - 19  Edificio Panamericano Of. 406\t\r\nNORTE SANTAND.\tCUCUTA",
+        "Tipo": "Locales",
+        "Superficie": "20 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "SOLANGE SUESCUN LEAL\t",
+        "Alquiler": "$109.900.000",
+        "Estado": "Publica"
+    },
+    {
+        "ID": "17",
+        "Unidad": "CARRERA 42 No.5C-48 Barrio Tequendama\tCALI\t\r\nVALLE DEL CAUCA\t",
+        "Tipo": "Consultorios",
+        "Superficie": "52 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "FANNY SOFIA WILCHES\t",
+        "Alquiler": "$377.000.000",
+        "Estado": "Privada"
+    },
+    {
+        "ID": "19",
+        "Unidad": "Calle 28 No. 8 - 69 CENTRO\t",
+        "Tipo": "Lote",
+        "Superficie": "1230 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "VICTOR GONZALEZ HUMANEZ\t",
+        "Alquiler": "$8.000.000.000",
+        "Estado": "Privado "
+    },
+    {
+        "ID": "21",
+        "Unidad": "Carrera 9  No. 7 - 34\tHUILA NEIVA",
+        "Tipo": "Edificio de Apartamentos",
+        "Superficie": "346 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "ALBEY  CALDERON\t",
+        "Alquiler": "$4.200.000.000",
+        "Estado": "Privada"
+    },
+    {
+        "ID": "22",
+        "Unidad": "Calle 12 No. 4 - 19  Edificio Panamericano Of. 406\t\r\nNORTE SANTAND.\tCUCUTA",
+        "Tipo": "Locales",
+        "Superficie": "20 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "SOLANGE SUESCUN LEAL\t",
+        "Alquiler": "$109.900.000",
+        "Estado": "Publica"
+    },
+    {
+        "ID": "23",
+        "Unidad": "Carrera 3  con Calle 28 Esquina Barrio Claret\r\nTOLIMA\tIBAGUE\r\n\t",
+        "Tipo": "Edificio de Oficinas",
+        "Superficie": "370 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "MAURICIO FERNANDO MORA BONILLA\t",
+        "Alquiler": "$1.500.000.000",
+        "Estado": "Privada\r\n"
+    },
+    {
+        "ID": "24",
+        "Unidad": "CARRERA 42 No.5C-48 Barrio Tequendama\tCALI\t\r\nVALLE DEL CAUCA\t",
+        "Tipo": "Consultorios",
+        "Superficie": "52 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "FANNY SOFIA WILCHES\t",
+        "Alquiler": "$377.000.000",
+        "Estado": "Privada"
+    },
+    {
+        "ID": "25",
+        "Unidad": "Carrera 23  No. 10A - 10 YOPAL",
+        "Tipo": "Casa",
+        "Superficie": "120 m\u00b2",
+        "Habitaciones": "3",
+        "Inquilino": "NURYS ESTHER VELASQUEZ PADILLA\t",
+        "Alquiler": "$5.600.000.000",
+        "Estado": "Privada"
+    },
+    {
+        "ID": "29",
+        "Unidad": "Carrera 3  con Calle 28 Esquina Barrio Claret\r\nTOLIMA\tIBAGUE\r\n\t",
+        "Tipo": "Edificio de Oficinas",
+        "Superficie": "370 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "MAURICIO FERNANDO MORA BONILLA\t",
+        "Alquiler": "$1.500.000.000",
+        "Estado": "Privada\r\n"
+    },
+    {
+        "ID": "30",
+        "Unidad": "CARRERA 42 No.5C-48 Barrio Tequendama\tCALI\t\r\nVALLE DEL CAUCA\t",
+        "Tipo": "Consultorios",
+        "Superficie": "52 m\u00b2",
+        "Habitaciones": "0",
+        "Inquilino": "FANNY SOFIA WILCHES\t",
+        "Alquiler": "$377.000.000",
+        "Estado": "Privada"
+    },
+    {
+        "ID": "31",
+        "Unidad": "Carrera 23  No. 10A - 10 YOPAL",
+        "Tipo": "Casa",
+        "Superficie": "120 m\u00b2",
+        "Habitaciones": "3",
+        "Inquilino": "NURYS ESTHER VELASQUEZ PADILLA\t",
+        "Alquiler": "$5.600.000.000",
+        "Estado": "Privada"
+    }
+]

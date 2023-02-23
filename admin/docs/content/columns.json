@@ -1,0 +1,21 @@
+
+
+[
+  {"name":"something","title":"Never seen but always around","visible":false,"filterable":false},
+  {"name":"Un","title":"", " type":"date","breakpoints":"xs sm md","formatString":"MMM YYYY"},
+  {"name":"ID","title":"ID","breakpoints":"xs sm","type":"number","style":{"width":100,"maxWidth":100}},
+  {"name":"Unidad","title":"Unidad"},
+  {"name":"Tipo","title":"Tipo"},
+  {"name":"something","title":"Never seen but always around","visible":false,"filterable":false},
+  {"name":"something","title":"Never seen but always around","visible":false,"filterable":false},
+  {"name":"Superficie","title":"Superficie","breakpoints":"xs sm","style":{"maxWidth":200,"overflow":"hidden","textOverflow":"ellipsis","wordBreak":"keep-all","whiteSpace":"nowrap"}},
+  {"name":"Habitaciones","title":"Habitaciones","type":"date","breakpoints":"xs sm md","formatString":"MMM YYYY"},
+  {"name":"Inquilino","title":"Inquilino ","type":"date","breakpoints":"xs sm md","formatString":"DD MMM YYYY"},
+  {"name":"Alquiler","title":"Alquiler","title":"Alquiler","type":"date","breakpoints":"xs sm md","formatString":"MMM YYYY" },
+  {"name":"Estado","title":"Estado"},
+  {"name":"Acciones","title":"Acciones"}
+ 
+
+  
+]
+
